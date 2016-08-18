@@ -4,7 +4,7 @@
 Making a quick area to reference learning tools and resources.
 
 ### Microsoft
-A lot of focus has been on Linux based systems and models; however, Microsoft has invested heavily in this space, both with the Windows Stack and their Azure offerings. Below are some freely avaialbe courses in getting up to speed on Microsoft's approach to Cloud, building Microsoft centric Cloud native/optimized/friendly apps, and a Microsoft CICD pipeline.  
+A lot of focus has been on Linux based systems and models; however, Microsoft has invested heavily in this space, both with the Windows Stack and their Azure offerings. Below are some freely available courses in getting up to speed on Microsoft's approach DevOps and their Cloud offering.
 
 https://www.edx.org/school/microsoft   
 
