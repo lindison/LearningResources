@@ -1,7 +1,7 @@
 # LearningResources
 
 ## A quick repo to display learning resources for different technologies.  
-Making a quick area to reference learning tools and resources.  
+Making a quick area to reference learning tools and resources.
 
 ### Microsoft
 
@@ -36,12 +36,14 @@ Chuck's program learning Website
 http://www.pythonlearn.com/  
 
 ### Containers
-LXC
+LXC (Linux Containers)
+https://linuxcontainers.org/  
 
-Docker
+Docker  
+https://www.docker.com/  
 
-RKT
-
+RKT  
+https://coreos.com/rkt/  
 
 ### Container Orchestration
 
