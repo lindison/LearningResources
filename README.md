@@ -41,6 +41,8 @@ https://linuxcontainers.org/
 
 Docker  
 https://www.docker.com/  
+https://docs.docker.com/engine/understanding-docker/  
+
 
 RKT  
 https://coreos.com/rkt/  
@@ -129,3 +131,26 @@ There are other tools but Packer is my favorite; namely, because it can package 
 
 Packer  
 https://www.packer.io/  
+
+### Learning Websites
+
+EdX  
+https://www.edx.org/  
+
+Coursera  
+https://www.coursera.org/  
+
+MIT Open Course Ware
+http://ocw.mit.edu/index.htm  
+
+Linux Academy  
+http://www.linuxacademy.com/  
+
+Cloud Academy  
+https://cloudacademy.com/  
+
+Udemy  
+https://www.udemy.com/  
+
+OpenCulture  
+http://www.openculture.com/freeonlinecourses  
