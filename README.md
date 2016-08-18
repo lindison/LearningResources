@@ -5,11 +5,22 @@ Making a quick area to reference learning tools and resources.
 
 ### Microsoft
 
-Microsoft’s Introduction to DevOps  
-https://courses.edx.org/courses/course-v1:Microsoft+DEV212x+2T2016/info  
+https://www.edx.org/school/microsoft   
 
-Building Cloud Apps with Microsoft Azure  
-https://courses.edx.org/courses/course-v1:Microsoft+DEV202.1x+2015_T4/info  
+Microsoft’s Introduction to DevOps (12 hours)
+https://www.edx.org/course/introduction-devops-microsoft-dev212x-0  
+
+Building Cloud Apps with Microsoft Azure  (16 hours each)
+https://www.edx.org/course/building-cloud-apps-microsoft-azure-part-microsoft-dev202-1x-0  
+https://www.edx.org/course/building-cloud-apps-microsoft-azure-part-microsoft-dev202-2x  
+https://www.edx.org/course/building-cloud-apps-microsoft-azure-part-microsoft-dev202-3x  
+
+Architecting Microsoft Azure Solutions (25 hours)
+https://www.edx.org/course/architecting-microsoft-azure-solutions-microsoft-dev205bx-0  
+
+Accelerating Software Delivery Using DevOps  (15 hours)
+https://www.edx.org/course/accelerate-software-delivery-using-microsoft-dev217x  
+
 
 ### Programming
 
@@ -19,6 +30,7 @@ https://play.golang.org/p/3VsQMI4Rx5
 
 Python  
 https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info  
+https://www.coursera.org/specializations/python  
 
 Chuck's program learning Website  
 http://www.pythonlearn.com/  
@@ -44,5 +56,3 @@ SuSE
 KVM  
 QEMU  
 VMWare  
-
-
