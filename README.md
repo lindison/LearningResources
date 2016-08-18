@@ -46,11 +46,22 @@ CoreOS
 Rancher
 Atomic
 
-### Operating Systems
+## Operating Systems
+### Linux  
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
+
 Ubuntu  
 CentOS  
+https://www.centos.org/  
+
 Red Hat  
+http://www.redhat.com/   
+
 SuSE  
+http://www.suse.com/  
+
+
+### Windows
 
 ### Hypervisors
 KVM  
