@@ -4,6 +4,7 @@
 Making a quick area to reference learning tools and resources.
 
 ### Microsoft
+A lot of focus has been on Linux based systems and models; however, Microsoft has invested heavily in this space, both with the Windows Stack and their Azure offerings. Below are some freely avaialbe courses in getting up to speed on Microsoft's approach to Cloud, building Microsoft centric Cloud native/optimized/friendly apps, and a Microsoft CICD pipeline.  
 
 https://www.edx.org/school/microsoft   
 
@@ -20,7 +21,6 @@ https://www.edx.org/course/architecting-microsoft-azure-solutions-microsoft-dev2
 
 Accelerating Software Delivery Using DevOps  (15 hours)  
 https://www.edx.org/course/accelerate-software-delivery-using-microsoft-dev217x  
-
 
 ### Programming
 
@@ -102,12 +102,30 @@ KVM
 QEMU  
 VMWare  
 
-### Orchestration tools
+### Configuration Management, Orchestration, and Automation tools
+For rapid adoption and ease of implementation I prefer Ansible over others.
 
-Ansible
+Ansible  
+http://ansible.com  
 
-Puppet
+Puppet  
+https://puppet.com/  
 
-### Enterprise Architecture
+Salt  
+https://saltstack.com/  
 
-TOGAF
+Chef  
+https://www.chef.io/chef/  
+
+
+### Orchestration VM Deployment tools
+For the price of free, I don't think anything comes so ready and easy to use as Vagrant. Using Vagrantfile and bootstrap scripts, I can build systems that are configured the same across many domains. In a dev space, this is awesome because I can push the Vagrantfile up to github, clone it somewhere else, and run a `vagrant up` and get a base system that is fits a predictable configuration.
+
+Vagrant  
+https://www.vagrantup.com/   
+
+### Cloud image packaging tools
+There are other tools but Packer is my favorite; namely, because it can package in a one to many fashion. Plug packer into your deployment pipeline and new images can automatically get built from the CI tool.  
+
+Packer  
+https://www.packer.io/  
