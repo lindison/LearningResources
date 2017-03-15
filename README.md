@@ -134,6 +134,10 @@ https://www.packer.io/
 
 ### Learning Websites
 
+Udemy  
+I have come to like Udemy quite a bit. The prices seem high but they are always on sale; so a $200 course typically runs $10-20. 
+https://www.udemy.com/  
+
 EdX  
 https://www.edx.org/  
 
@@ -148,9 +152,6 @@ http://www.linuxacademy.com/
 
 Cloud Academy  
 https://cloudacademy.com/  
-
-Udemy  
-https://www.udemy.com/  
 
 OpenCulture  
 http://www.openculture.com/freeonlinecourses  
